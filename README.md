@@ -1,4 +1,3 @@
-# logicweb
 <!DOCTYPE HTML>
 <!--
 	SoftP 08/2018
